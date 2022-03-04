@@ -1,0 +1,10 @@
+nav img{
+    width: 50px;
+}
+
+#nav{
+    background-color: #e5cf9c;
+}
+  #nav ul li a{
+      color: black;
+  }
